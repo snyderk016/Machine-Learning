@@ -1,0 +1,1 @@
+Uploaded here is my final project for Machine Learning (CH610) at the University of Oregon, taught by Dr. Dhiman Ray. This repository will also house any feature ML related projects I take on. All projects will be done in Google Colab and uploaded here as Colab notebooks. 
